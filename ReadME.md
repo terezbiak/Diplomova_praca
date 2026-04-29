@@ -22,9 +22,9 @@ Zoznam balíkov potrebný na spustenie kódu je definovaný v každom zdrojovom 
 - vizualizácie - obsahuje kód ku spusteniu vizualizácií (3_vizualizacie)
 
 Dostupné datasety sa nachádzajú v priečinku 0_datasety:
-- events_omni.csv
-- test_omni.csv
-- train_omni.csv
+- event_omni_prepared.csv - používame na experiment s event dátami
+- test_omni.csv - používame na experiment s kontinuálnymi dátami
+- train_omni.csv - používame na experiment s kontinuálnymi dátami
 - dataset so stiahnutými dátami z HAPI sa nachádza v priečinku 1_priprava_a_rozdelenie_dat - DP_omni.csv
 
 
